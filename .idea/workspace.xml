@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c51ec7e0-c635-4097-b50a-c39c16fcc112" name="Changes" comment="" />
+    <list default="true" id="c51ec7e0-c635-4097-b50a-c39c16fcc112" name="Changes" comment="first commit- start project django" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +33,21 @@
   }
 }]]></component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="first commit- start project django">
+      <created>1696337040693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696337040693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit- start project django">
+      <created>1696337184142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696337184142</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -45,5 +60,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit- start project django" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit- start project django" />
   </component>
 </project>
